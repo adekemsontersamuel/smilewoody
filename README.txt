@@ -1,8 +1,59 @@
-Template Name: Furni
-Template Author: Untree.co
-Template License: https://creativecommons.org/licenses/by/3.0/
-Author URI: https://untree.co/
+# 🛋️ Furniture Haven — Stylish Furniture Website
 
-Twitter: https://twitter.com/Untree_co
-Facebook: https://web.facebook.com/Untree.co/
-Pinterest: https://pinterest.com/Untree_co/
+Welcome to **Furniture Haven**, a modern and responsive website built to showcase and sell premium furniture. Built with HTML, CSS, JavaScript, and Bootstrap, this site is perfect for any furniture brand looking to create an elegant and functional online presence.
+
+---
+
+## 🌐 Live Demo
+
+📱 Fully responsive on desktop, tablet, and mobile.
+
+---
+
+## 🖼️ Screenshots
+
+> *(Add your own screenshots here in the `screenshots/` folder)*
+
+- Homepage with Hero Banner
+- Category Section
+- Product Grid Layout
+- Product Detail Modal
+- Responsive Cart and Checkout Flow
+
+---
+
+## ⚙️ Features
+
+### 💎 Frontend Features
+- Clean, minimalist UI with Bootstrap 5
+- Fully responsive layout
+- Animated hero section with call-to-action
+- Product grid with hover effects
+- Dynamic modals for product previews
+- Search bar and product filter by category
+- Add to cart functionality with item count
+- Sticky navbar and scroll animations
+
+### 🛒 Shopping Features
+- View product details in modals or separate pages
+- Add/remove items from cart (stored in localStorage)
+- Cart dropdown preview and full cart page
+- Simple checkout page
+
+---
+
+## 🧱 Tech Stack
+
+| Technology  | Purpose                            |
+|-------------|-------------------------------------|
+| **HTML5**   | Page structure and content markup   |
+| **CSS3**    | Styling and layout                  |
+| **JavaScript (ES6)** | Interactivity (cart, modal, etc.)  |
+| **Bootstrap 5** | Responsive grid and components    |
+| **Google Fonts** | Typography enhancements         |
+| **Font Awesome** | Icon library                    |
+
+---
+
+## 📁 Folder Structure
+
